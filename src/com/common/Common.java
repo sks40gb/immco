@@ -20,6 +20,7 @@ public class Common {
         for (int count = 0; count < 5; count++) {
             System.out.println("COUNT : " + count);
         }
+        System.out.println("new commit");
 
     }
 }
